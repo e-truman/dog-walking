@@ -147,18 +147,3 @@ export const getCities = () => {
 
 
 
-
-
-
-
-
-
-
-
-// const cities = database.walkers.filter(// <--- Go to YouTube and search "javascript array filter"
-//                         (city) => {
-//                             if (database.walkers === city) {
-//                                 console.log(cities)
-//                             }
-//                         }
-//                     )
