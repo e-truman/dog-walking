@@ -27,12 +27,6 @@ document.addEventListener(
 )
 
 
-
-
-
-
-
-
 export const RegisteredPets = () => {
     let petHTML = "<ul>"
 
